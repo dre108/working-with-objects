@@ -6,7 +6,6 @@
 // 5) Create event listeners so the buttons know what to execute when pressed
 // 6) Create the function to update the inforation necessary that will display for the user
 // 7) Create the function to save and load information from the local storage
-// 8)
 
 
 // Sport Object
